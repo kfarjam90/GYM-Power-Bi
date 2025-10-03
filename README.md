@@ -1,5 +1,7 @@
 # Fitness Analytics Dashboard (Power BI)
 
+![](image.png)
+
 A polished Power BI dashboard for a gym/fitness business that tracks members, trainers, finance (revenue, expenses, profit), and engagement, plus a built‑in calorie/BMR/TDEE calculator. See **docs/GYM.pdf** for page mockups and example outputs. fileciteturn1file0
 
 ## ✨ Highlights

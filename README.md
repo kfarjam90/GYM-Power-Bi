@@ -11,7 +11,7 @@ A polished Power BI dashboard for a gym/fitness business that tracks members, tr
 - **Calorie Calculator:** BMR/TDEE, BMI category, and calorie targets (maintain/deficit tiers). fileciteturn1file0
 
 ## 🧭 Report Pages
-### 1) Home / Overview
+### 1) Home / Overview 
 - KPI cards: **Clients**, **Trainers**, **Revenue**, **Expenses**, **Profit**.
 - Finance trend: monthly **Revenue/Expenses/Profit** chart.
 - **Active vs. Expired** membership summary.
